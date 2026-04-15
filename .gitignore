@@ -1,0 +1,38 @@
+# ============================================================
+# Arquivos sensíveis — NUNCA subir ao repositório
+# ============================================================
+
+# Credenciais e segredos
+.env
+credentials.json
+*.pfx
+*.p12
+config.json
+
+# Arquivos gerados em runtime
+Matrícula/
+Comparativos/
+
+# Binários compilados
+*.exe
+*.rar
+dist/
+build/
+*.spec
+
+# JSignPdf (baixar separado: https://sourceforge.net/projects/jsignpdf/files/stable/)
+JSignPdf/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# SO
+.DS_Store
+Thumbs.db
+desktop.ini

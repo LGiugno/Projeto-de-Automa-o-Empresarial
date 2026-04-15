@@ -1,0 +1,8 @@
+{
+  "sistema": "MultiA Mais",
+  "planilha_id": "ID_DA_SUA_PLANILHA_GOOGLE_SHEETS",
+  "credentials_path": "caminho/para/credentials.json",
+  "pasta": "caminho/para/pasta/Comparativos",
+  "excluir_imagens": true,
+  "gerar_laudo": true
+}
