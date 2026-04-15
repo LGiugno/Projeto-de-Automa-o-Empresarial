@@ -1,6 +1,6 @@
 # Robô Comparativo MultiA
 
-Automação de fechamento de laudos imobiliários para os sistemas **MultiA Mais** e **MultiA Avaliações**. Lê dados de uma planilha Google Sheets, envia comparativos via API REST, atualiza campos da avaliação, gera o laudo PDF e aplica assinaturas digitais — tudo em segundo plano, sem abrir navegador.
+Automação de fechamento de laudos imobiliários para os sistemas **MultiA Mais** e **MultiA Avaliações**. Lê dados de uma planilha Google Sheets, envia comparativos via API REST, atualiza campos da avaliação, gera o laudo PDF e aplica assinaturas digitais tudo em segundo plano, sem abrir navegador.
 
 ---
 
